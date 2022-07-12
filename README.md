@@ -1,6 +1,8 @@
 # catelog_demo
 
 A new Flutter project.
+Here one flotting button to tap on button show popup dialog ,
+here you can add data and tap "ADD" button to add your data on category list
 
 ## Getting Started
 
